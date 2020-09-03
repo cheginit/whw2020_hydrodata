@@ -1,4 +1,4 @@
-# WaterHackWeek 2020: Accessing Hydrology and Climatology Web Services Usin Python
+# WaterHackWeek 2020: Flow Accumulation Based on Vector Flowlines from NHDPlus Database
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cheginit/whw2020_hydrodata/master)
 
