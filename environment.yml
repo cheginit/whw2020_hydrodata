@@ -1,0 +1,39 @@
+name: whw2020_hydrodata
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+  - setuptools
+  - owslib
+  - pandas
+  - matplotlib-base
+  - xarray
+  - scipy
+  - geopandas
+  - geojson
+  - folium
+  - rasterio
+  - networkx
+  - orjson
+  - defusedxml
+  - cftime
+  - dataclasses
+
+  - dask
+  - bottleneck
+  - descartes
+  - cartopy
+  - jupyterlab
+  - cmocean
+  - colorspacious
+  - mapclassify
+  - pyarrow
+
+  - pip:
+    - git+https://github.com/cheginit/pygeoogc.git
+    - git+https://github.com/cheginit/pygeoutils.git
+    - git+https://github.com/cheginit/pynhd.git
+    - git+https://github.com/cheginit/py3dep.git
+    - git+https://github.com/cheginit/pydaymet.git
+    - git+https://github.com/cheginit/hydrodata.git
